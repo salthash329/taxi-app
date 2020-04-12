@@ -129,7 +129,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'タクッチャ  - Taxiの定期買い物代行サービス'
+      title: 'お買い物サイト'
     }
   }
 }
