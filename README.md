@@ -20,3 +20,7 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+### Design Reference
+https://ui8.net/shakuro/products/eat-it-ui-kit
+ 
