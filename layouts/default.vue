@@ -24,12 +24,19 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
-    <v-app-bar
+    <!-- <v-app-bar
       :clipped-left="clipped"
       fixed
       color="light-blue lighten-2"
       app
+    > -->
+    <v-app-bar
+      :clipped-left="clipped"
+      fixed
+      color="white"
+      app
     >
+
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
       <!-- <v-btn
         icon
@@ -129,7 +136,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'お買い物サイト'
+      title: '定期購入を選ぶ'
     }
   }
 }
@@ -137,5 +144,13 @@ export default {
 
 
 <style scoped>
+.v-list-item-title{
+  color: blue;
+}
+
+.theme--light.v-sheet{
+  color: #53B59D;
+   font-weight: bold;
+}
 
 </style>
