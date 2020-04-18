@@ -144,9 +144,9 @@ export default {
 
 
 <style scoped>
-.v-list-item-title{
+/* .v-list-item-title{
   color: blue;
-}
+} */
 
 .theme--light.v-sheet{
   color: #53B59D;
