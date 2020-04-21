@@ -119,8 +119,7 @@ export default {
         },
         {
           icon: 'mdi-account',
-          title: 'アカウント情報',jjjjhjnffujmidfoc8kedsilkkewwilskj3e8kilkt9il;t-grfl;0,rfk8iuuurf9k
-          i5
+          title: 'アカウント情報',
           to: '/account'
         },                
         {
@@ -140,7 +139,6 @@ export default {
       title: '定期購入を選ぶ'
     }
   }
-  
 }
 </script>
 
